@@ -434,5 +434,5 @@ Possible extensions to this project include:
 
 Aspiring Data Analyst | SQL | Excel | Power BI | Google Sheets
 
-This project wa
+This project was created as part of my practical Data Analytics portfolio to demonstrate SQL and business analysis skills.
 
